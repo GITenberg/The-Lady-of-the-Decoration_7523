@@ -1,0 +1,27 @@
+_repo: The-Lady-of-the-Decoration_7523
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Little, Frances
+    alias: Macaulay, Fannie Caldwell
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '1901'
+    url: http://www.gutenberg.org/2009/agents/1901
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Little
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Japan -- History -- Meiji period, 1868-1912 -- Fiction'
+- GITenberg
+title: The Lady of the Decoration
+url: http://www.gutenberg.org/ebooks/7523
